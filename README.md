@@ -29,5 +29,5 @@
 프로젝트를 시작하려면 아래 명령을 사용하세요.
 
 ```bash
-python main.py
+python3 main.py
 ```
